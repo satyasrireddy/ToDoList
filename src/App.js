@@ -25,7 +25,7 @@ function App() {
    }, [todos, status]);
 
 
-  // Functions Stuff
+  // Functions Stuff here
     const filterHandler = () => {
 
       switch(status) {
